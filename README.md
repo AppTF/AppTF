@@ -1,1 +1,1 @@
-{"stringU":"https://gamevui.vn/gamehay","stringJ":"1"}
+{"stringU":"","stringJ":"0"}
