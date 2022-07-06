@@ -1,1 +1,1 @@
-{"stringU":"https://www.google.com/","stringJ":"0"}
+{"stringU":"","stringJ":"0"}
