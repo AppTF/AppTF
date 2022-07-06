@@ -1,1 +1,1 @@
-{"stringU":"https://google.com/","stringJ":"1"}
+{"stringU":"https://gamevui.vn/gamehay","stringJ":"1"}
